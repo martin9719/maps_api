@@ -8,7 +8,7 @@ function initMap() {
         scrollwheel: false,
     });
 
-    // This is the marker and I assigned it an image and mde it a certain size
+    // This is the marker and I assigned it an image and made it a certain size
     var image = {
         url: "/pointing.png",
         scaledSize: new google.maps.Size(50, 50),
